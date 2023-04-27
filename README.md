@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/omegatechnN)
+
 <!--
 **OmegaTechnologyServicesLtd/OmegaTechnologyServicesLtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
