@@ -1,19 +1,20 @@
-### Hi there 👋
+
+### Current_ALX_STUDENT/Stack_Web_Developer
+<h3 align="center">A professional developer, who implements, manages, and evaluates customized professional development programs and activities in any organizations 👨‍💻</h3>
+<h4 align="left">You can Reach me on omegatechnologyservicesltd@gmail.com</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=official0mega&label=Profile%20views&color=0e75b6&style=flat" alt="official0mega" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=official0mega" alt="official0mega" /></a> </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/omegatechnN)
 
-<!--
-**OmegaTechnologyServicesLtd/OmegaTechnologyServicesLtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=official0mega&show_icons=true&locale=en&layout=compact" alt="official0mega" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=official0mega&show_icons=true&locale=en" alt="official0mega" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=official0mega&" alt="official0mega" /></p>
